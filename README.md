@@ -34,7 +34,7 @@
 ### 📫 Contact me
 - **Email:** elswefy@msn.com  
 - **LinkedIn:** https://www.linkedin.com/in/swefy/  
-- **WhatsApp:** wa.me/966563669696  
+- **WhatsApp:** https://wa.me/966563669696  
 
 ---
 
