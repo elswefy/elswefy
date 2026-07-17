@@ -1,131 +1,163 @@
-<h1 align="center">Hi 👋, I'm Bassem</h1>
-<h3 align="center">IT Manager • DevOps & Cloud Engineer</h3>
+<div align="center">
+
+# Hi 👋, I'm Bassem
+
+### Building scalable digital products, cloud infrastructure, and modern technology solutions
+
+I work across software, cloud, automation, infrastructure, and digital product development at  
+<strong><a href="https://qbe.sa">QBE Digital Solutions</a></strong> 🚀
+
+<br />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elswefy&label=Profile%20views&color=0e75b6&style=flat" alt="elswefy" />
 </p>
 
----
-
-### 🔭 What I'm working on
-- Managing and improving cloud infrastructure for **[Dettaglioauto Saudi Arabia](https://dettaglioauto.sa)**  
-- Automating deployments, log processing, and monitoring on **AWS + Linux**  
-- Enhancing performance, scalability, and reliability of production systems  
-- Designing secure, cost-efficient cloud architectures for automotive services  
+</div>
 
 ---
 
-### 🎯 My Current Focus
-- Deepening expertise in **DevOps practices** (automation, CI/CD, observability)  
-- Learning and applying advanced **AWS services** (EC2, RDS, S3, CloudWatch, ALB, VPC)  
-- Expanding experience with **infrastructure management**, backups, alerts, HA setups  
+## 👨‍💻 About Me
+
+I'm a technology professional focused on building, deploying, and operating secure, scalable, and production-ready digital solutions.
+
+My work spans cloud infrastructure, DevOps, software delivery, automation, web platforms, SaaS products, Linux administration, and technical operations.
+
+I'm currently helping build and grow **[QBE Digital Solutions](https://qbe.sa)**, where we develop modern websites, applications, cloud platforms, SaaS products, and technology solutions for businesses.
 
 ---
 
-### 🧱 DevOps / Cloud Stack I Use
-- **Cloud:** AWS (EC2, RDS, S3, Route53, CloudWatch), Cloudflare  
-- **Servers:** Linux (Ubuntu, AlmaLinux), Nginx, PHP-FPM  
-- **Automation:** Git, GitHub Actions, PM2, Bash scripting  
-- **Monitoring:** CloudWatch, metrics dashboards, alarms  
-- **Apps & Tools:** Nuxt.js, Laravel APIs, MySQL, Postman  
+## 🔭 What I'm Working On
+
+- 🚀 Building and improving **QBE Digital Solutions**
+- 🌐 Developing and deploying modern web and SaaS platforms
+- ☁️ Designing secure and cost-efficient AWS infrastructure
+- 🐳 Containerizing applications using Docker
+- ⚙️ Automating deployments with GitHub Actions and CI/CD pipelines
+- 🐧 Managing Linux servers, Nginx, DNS, SSL, email, and production environments
+- 📈 Improving application performance, reliability, security, and scalability
+- 🧩 Building internal products and platforms under QBE
 
 ---
 
-### 📫 Contact me
-- **Email:** elswefy@msn.com  
-- **LinkedIn:** https://www.linkedin.com/in/swefy/  
-- **WhatsApp:** https://wa.me/966563669696  
+## 🎯 Current Focus
+
+- ☁️ AWS architecture and cloud infrastructure
+- ⚙️ DevOps practices and deployment automation
+- 🐳 Docker and containerized production environments
+- 🔁 CI/CD workflows with GitHub Actions
+- 🐧 Linux administration and server security
+- 🏗️ Infrastructure as Code with Terraform
+- ☸️ Kubernetes and cloud-native technologies
+- 📊 Monitoring, observability, backups, and disaster recovery
+- 🧱 SaaS architecture and multi-tenant platforms
+- 🤖 AI-powered automation and digital products
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://wa.me/+966563669696" target="_blank">
-    <img align="center" src="https://www.cdnlogo.com/logos/w/29/whatsapp-icon.svg" alt="WhatsApp" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/des_bassem" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/swefy/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.behance.net/bassemmohammed9" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
-  </a>
-</p>
+## 🧰 Cloud & Engineering Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Infrastructure
+
+- AWS
+- EC2, RDS, S3, SES
+- Route 53 and CloudFront
+- IAM, VPC and Security Groups
+- Cloudflare
+- Linux
+- Nginx
+- DNS and SSL management
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ DevOps & Automation
+
+- Docker
+- GitHub Actions
+- CI/CD pipelines
+- Git
+- Bash scripting
+- PM2
+- Deployment automation
+- Monitoring and alerts
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Applications & Backend
+
+- Next.js
+- TypeScript
+- React
+- Node.js
+- NestJS
+- Laravel
+- REST APIs
+- MySQL
+- PostgreSQL
+- Redis
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Product & Digital
+
+- SaaS platforms
+- Web applications
+- Mobile application architecture
+- WordPress
+- UI/UX implementation
+- Figma
+- Technical SEO
+- Digital product delivery
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Technologies & Tools
 
-<p align="left"> 
-  <!-- Cloud -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a>
+<div align="center">
 
-  <!-- Frontend frameworks -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
+<img
+  src="https://skillicons.dev/icons?i=aws,azure,cloudflare,linux,ubuntu,docker,kubernetes,terraform,jenkins,githubactions,git,github,bash,nginx,vscode,html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,bootstrap,nodejs,express,nestjs,php,laravel,py,mysql,postgres,redis,wordpress,figma,photoshop,illustrator,postman&perline=10"
+  alt="Bassem technologies and tools"
+/>
 
-  <!-- Web basics -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
+</div>
 
-  <!-- JS & Frameworks -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
+---
 
-  <!-- Design tools -->
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
+## 🏢 QBE Digital Solutions
 
-  <!-- CMS / E-commerce -->
-  <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="40" height="40" /> 
-  </a> 
-  <a href="https://wordpress.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40" /> 
-  </a>
+I'm currently contributing to building QBE as a modern technology company delivering:
 
-  <!-- Dev & backend tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
+- 💻 Software and web development
+- 📱 Mobile application development
+- 🧩 SaaS product engineering
+- ☁️ Cloud infrastructure and DevOps
+- 🎨 UI/UX and digital product design
+- 🌐 Hosting and domain solutions
+- 📈 Digital transformation and growth
+- 🤖 Automation and AI-powered solutions
 
-  <!-- API / Testing -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-</p>
+<div align="center">
+
+<a href="https://qbe.sa">
+  <img
+    src="https://img.shields.io/badge/Explore_QBE-qbe.sa-111111?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Visit QBE Digital Solutions"
+  />
+</a>
+
+</div>
